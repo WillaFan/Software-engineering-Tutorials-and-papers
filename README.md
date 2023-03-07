@@ -1,4 +1,4 @@
-# How to be smart in Software Engineering
+# How to be Smart in Software Engineering
 
 ### Software Foundations - Surveillance, Monitoring and Regulatory Tools  
 
