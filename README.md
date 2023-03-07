@@ -20,17 +20,17 @@
 
 ### SMaRT & TEDRA (Trade Enrichment Data Reporting & Allocations) Tools
 
-- rest services, kafka data, redis service **mongodb service**
+- rest services, kafka data, redis service *mongodb service*
 - gsp report, smart rule, gsp kafka  
 - icg build  
-- **citi ecs (Tomcat, redis cache, flink task manager)**
+- *citi ecs (Tomcat, redis cache, flink task manager)*
 
 ### Domain-Specific Softwares
 - [Salary.com](https://www.salary.com/), 健康软件  
-- **enterprise software (trade, [microservice](https://spring.io/microservices))**  
-- **front-line strategy ([Meetup](https://www.meetup.com/), [ctrip](https://www.ctrip.com/?sid=155952&allianceid=4897&ouid=index), [Calendly](https://calendly.com/), [vervoe](https://vervoe.com/))**
+- *enterprise software (trade, [microservice](https://spring.io/microservices))*  
+- *front-line strategy ([Meetup](https://www.meetup.com/), [ctrip](https://www.ctrip.com/?sid=155952&allianceid=4897&ouid=index), [Calendly](https://calendly.com/), [vervoe](https://vervoe.com/))*
 
 ### Automations & Builds  
 - ICG Build ([UCD](https://www.ibm.com/cloud/urbancode/deploy))  
-- **Medicine platform [Linux](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux) and storage builds**  
+- *Medicine platform [Linux](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux), and storage builds*  
 
