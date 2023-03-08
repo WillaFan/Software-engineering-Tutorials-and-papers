@@ -25,6 +25,7 @@
 | SMaRT - [rest service](), [kafka data](), [redis service *mongodb service*](), [gsp report](), [smart rule](), [gsp kafka](), [icg build](), 1,2,3 *[citi ecs (Tomcat, redis cache, flink task manager)]()* | Network routing |  
 | Domain-Specific Softwares - [Salary.com](https://www.salary.com/), 健康软件, *enterprise software (trade, [microservice](https://spring.io/microservices))*, *front-line strategy ([Meetup](https://www.meetup.com/), [ctrip](https://www.ctrip.com/?sid=155952&allianceid=4897&ouid=index), [Calendly](https://calendly.com/), [vervoe](https://vervoe.com/))* |  |
 | *Medicine platform [Linux](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux), and storage builds* [medical equations]() |  |
+| [Chine economics updates]() |  |
 
 
 ### Automations & Builds  
