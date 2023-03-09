@@ -4,7 +4,7 @@
 
 [Tectia](https://github.com/WillaFan/Software-engineering-Tutorials-and-papers/blob/main/topics/Tectia.md) SSH Client  
 [ELK](https://www.elastic.co/elasticsearch), [hive](https://github.com/WillaFan/Software-engineering-Tutorials-and-papers/blob/main/topics/hive.md) sql, [Scripting](https://github.com/WillaFan/Software-engineering-papers-and-tools/tree/main/ICG/scripts), [Kafka](https://kafka.apache.org/books-and-papers)  
-[Projects](https://github.com/WillaFan/Software-engineering-papers-and-tools/tree/main/ICG)  
+[Projects](https://github.com/WillaFan/Software-engineering-papers-and-tools/tree/main/ICG) [[existings](), [new]()]  
 
 ### Automation Tools ([TeamCity](https://teamcity.com/gotime/) for projects build, tracing) and
 
