@@ -25,7 +25,7 @@
 | SMaRT - [rest service](https://github.com/WillaFan/Software-engineering-papers-and-tools/blob/main/topics/rest.md), [kafka data](), [redis service *mongodb service*](https://github.com/WillaFan/Software-engineering-papers-and-tools/blob/main/topics/redis.md), [gsp report](https://github.com/WillaFan/Software-engineering-papers-and-tools/tree/main/topics/report), [smart rule](https://github.com/WillaFan/Software-engineering-papers-and-tools/tree/main/topics/smart), [gsp kafka](https://github.com/WillaFan/Software-engineering-papers-and-tools/tree/main/topics/kafka), [icg build](), 1,2,3 *[citi ecs (Tomcat, redis cache, flink task manager)]()* | Network routing |  
 | Domain-Specific Softwares - [Salary.com](https://www.salary.com/), 健康软件, *enterprise software (trade, [microservice](https://spring.io/microservices))*, *front-line strategy ([Meetup](https://www.meetup.com/), [ctrip](https://www.ctrip.com/?sid=155952&allianceid=4897&ouid=index), [Calendly](https://calendly.com/), [vervoe](https://vervoe.com/))* |  |
 | *Medicine platform [Linux](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux), and storage builds* [medical equations]() |  |
-| [Chine economics updates]() |  |
+| [China economics updates]() |  |
 
 
 ### Automations & Builds  
