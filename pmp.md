@@ -1,5 +1,7 @@
-Regulatory analysis (Project buckets)  
+1. Regular analysis (Project buckets)  
 
-合适技术判断
+2. 合适技术判断
 
-选取合适的dependency搭建data infrastructure  
+3. 现成代码库管理方法
+
+# 
