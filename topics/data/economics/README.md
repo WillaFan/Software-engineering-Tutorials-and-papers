@@ -3,12 +3,12 @@
 | ------------------------------------| --------------------------------------------|  
 |                                     |   - Background ([attachment]())             |  
 
-2022  
+2022 [Templates]()  
 + Inputs  
 \    Trade  
 /      - [CN-JAY](https://github.com/WillaFan/Software-engineering-papers-and-tools/blob/main/topics/data/economics/CN-JAY.xlsx)  
 \      - [CN-JA](https://github.com/WillaFan/Software-engineering-papers-and-tools/blob/main/topics/data/economics/CN-JA.xlsx)  
-/      - [CN-JF](https://github.com/WillaFan/Software-engineering-papers-and-tools/blob/main/topics/data/economics/CN-JF.xlsx)  
+/      - [CN-JF](https://github.com/WillaFan/Software-engineering-papers-and-tools/blob/main/topics/data/economics/CN-JF.xlsx)(sample)  
 \      - CNP-RB  
 /      - [CNP-WA02]()拷过去  
 \    Automobile  
