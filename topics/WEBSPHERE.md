@@ -3,7 +3,7 @@
 1.https://github.com/microsoft/nlp-recipes/graphs/contributors  
 - Big data boxes  
   UK, US Cities     
-- Medical simulation (台)  
+- Medical (台)  
   中文名称	全国综合排名/国际	项目简介
 浙江大学附属第一医院	30/JCI，CAP	2017年8月全院联网血糖项目160台
 天津总医院	30	2017年10月全院联网血糖160台，血气20台项目
@@ -50,3 +50,7 @@
   - Domain, namespace  
 
 Policy set  
+
+- Resources (Job Scheduler, cache instances)  
+- Troubleshooting
+
