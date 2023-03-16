@@ -48,7 +48,7 @@
 	|DESKTOP-01UNNBRNode01 | Medical equation |  
 - Applications  
 - Environment  
-  - Domain, namespace  
+  - Domain, namespace (Servlet)  
 
 Policy set  
 
