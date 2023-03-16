@@ -43,8 +43,9 @@
 ### Deployment settings  
 - Server nodes  
 	| Node | Topics |
-	| ---- | -----  |
-	|DESKTOP-01UNNBRNode01 |  |  
+	| ---- | ------ |
+	|DESKTOP-01UNNBRNode01 | Big data topics |  
+	|DESKTOP-01UNNBRNode01 | Medical equation |  
 - Applications  
 - Environment  
   - Domain, namespace  
