@@ -41,3 +41,4 @@
 
 # Skills  
 - Problem solving (Martin, a guy who can consume tons of code, [TS](https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-8.html))  
+- Frontline strategy  
