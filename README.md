@@ -42,3 +42,6 @@
 # Skills  
 - Problem solving (Martin, a guy who can consume tons of code, [TS](https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-8.html))  
 - Frontline strategy  
+
+#
+软件工程，软件架构，计算  
