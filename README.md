@@ -38,3 +38,6 @@
 
 *[PMP®](https://github.com/WillaFan/Software-engineering-Tutorials-and-papers/blob/main/pmp.md), *  
 
+
+# Skills  
+- Problem solving (Martin, a guy who can consume tons of code, [TS](https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-8.html))  
