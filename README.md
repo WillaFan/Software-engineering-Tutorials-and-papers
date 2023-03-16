@@ -12,7 +12,7 @@
 
 ### Software architectures  [High Performance Links: [mpi](https://hpc-tutorials.llnl.gov/mpi/), [pthread](https://pubs.opengroup.org/onlinepubs/9699919799/idx/threads.html), [openmp](https://www.openmp.org/specifications/), [cuda](https://developer.nvidia.com/cuda-zone)] [Launch a Linux Virtual Machine in Amazon Lightsail](https://aws.amazon.com/getting-started/hands-on/launch-windows-vm/) (AWS) Similar Cloud Services, [Azure Portal](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-udr-overview) (There is Public/Private/Hybrid cloud type)
 
-### Build [Web Applications](https://www.ibm.com/products/websphere-application-server)
+### Build [Web Applications](https://github.com/WillaFan/Software-engineering-papers-and-tools/tree/main/ICG/environment)  
 
 ### Hands on Software Projects, [Smart](https://github.com/alibaba/SmartEngine), [SRE](https://sreworks.opensource.alibaba.com/), redis4vm
 
