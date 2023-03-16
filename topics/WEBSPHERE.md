@@ -42,11 +42,11 @@
 
 ### Deployment settings  
 - Server nodes  
+	| Node | Topics |
+	| ---- | -----  |
+	|DESKTOP-01UNNBRNode01 |  |  
 - Applications  
 - Environment  
   - Domain, namespace  
-| Node | Topics |
-| ---- | -----  |
-|DESKTOP-01UNNBRNode01 |  |  
 
 Policy set  
