@@ -16,6 +16,7 @@
 
 ### Hands on Software Projects, [Smart](https://github.com/alibaba/SmartEngine), [SRE](https://sreworks.opensource.alibaba.com/), redis4vm
 
+[baidu](), [CSDN](), [google](), official sites fit in  
 
 # Taxonomy expansion in Software Engineering (unfinished)
 
@@ -26,22 +27,29 @@
 | SMaRT - [rest service](https://github.com/WillaFan/Software-engineering-papers-and-tools/blob/main/topics/rest.md), [kafka data](), [redis service *mongodb service*](https://github.com/WillaFan/Software-engineering-papers-and-tools/blob/main/topics/redis.md), [gsp report](https://github.com/WillaFan/Software-engineering-papers-and-tools/tree/main/topics/report), [smart rule](https://github.com/WillaFan/Software-engineering-papers-and-tools/tree/main/topics/smart), [gsp kafka](https://github.com/WillaFan/Software-engineering-papers-and-tools/tree/main/topics/kafka), [icg build](), 1,2,3 *[citi ecs (Tomcat, redis cache, flink task manager)]()* | Network routing |  
 | Domain-Specific Softwares - [Salary.com](https://www.salary.com/)[Link](https://github.com/WillaFan/Software-engineering-papers-and-tools/tree/main/topics/salary), 健康软件, *enterprise software (trade, [microservice](https://spring.io/microservices))*, *front-line strategy ([Meetup](https://www.meetup.com/), [ctrip](https://www.ctrip.com/?sid=155952&allianceid=4897&ouid=index), [Calendly](https://calendly.com/), [vervoe](https://vervoe.com/))* |  |
 | *Medicine platform [Linux](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux), and storage builds* [medical equations]() |  |
-| [China economics updates]() |  |
+| TEDRA - [key data sets](https://github.com/WillaFan/Software-engineering-papers-and-tools/blob/main/topics/data/economics/key_data_set.md) [data reporting1](), [data reporting2]()                                                                   |  |
+| [China economics updates](https://github.com/WillaFan/Software-engineering-papers-and-tools/tree/main/topics/data/economics#readme), [Eikon 经济监测器应用程序简介（英文）](https://www.refinitiv.cn/content/dam/marketing/en_us/documents/fact-sheets/eikon-economic-monitor-fact-sheet.pdf) |  |
 
 
 ### Automations & Builds  
 - ICG Build ([UCD](https://github.com/WillaFan/Software-engineering-papers-and-tools/tree/main/ICG/deployment))  
 - 
 
-# Papers
+# Extensions
+### Marketplace  
 
+### 
+
+# Papers
+- [About trending knowledge]()  
 
 *[PMP®](https://github.com/WillaFan/Software-engineering-Tutorials-and-papers/blob/main/pmp.md), *  
 
 
 # Skills  
 - Problem solving (Martin, a guy who can consume tons of code, [TS](https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-8.html))  
-- Frontline strategy  
+
 
 #
+[icg.citi.com](https://www.citi.com/citi/about/institutional_clients_group.html)  
 软件工程，软件架构，计算  
