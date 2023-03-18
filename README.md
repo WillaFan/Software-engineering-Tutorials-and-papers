@@ -51,5 +51,6 @@
 
 
 #
+Career path: dev, ops, operator  
 [icg.citi.com](https://www.citi.com/citi/about/institutional_clients_group.html)  
 软件工程，软件架构，计算  
